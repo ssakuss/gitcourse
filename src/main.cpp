@@ -4,6 +4,6 @@ using namespace std;
 // Create some comment
 int main()
 {
-	std::cout<<" HAHAHA";
+	std::cout<<"Hello :)";
 	return 0;
 }
